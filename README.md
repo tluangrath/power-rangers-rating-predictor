@@ -1,0 +1,1 @@
+# power-rangers-rating-predictor
